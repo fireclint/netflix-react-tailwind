@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/netflix-react-tailwind/static/css/main.71c142d5.css",
-    "main.js": "/netflix-react-tailwind/static/js/main.103e4915.js",
+    "main.css": "/netflix-react-tailwind/static/css/main.ea84fc20.css",
+    "main.js": "/netflix-react-tailwind/static/js/main.60c8f06a.js",
     "index.html": "/netflix-react-tailwind/index.html",
-    "main.71c142d5.css.map": "/netflix-react-tailwind/static/css/main.71c142d5.css.map",
-    "main.103e4915.js.map": "/netflix-react-tailwind/static/js/main.103e4915.js.map"
+    "main.ea84fc20.css.map": "/netflix-react-tailwind/static/css/main.ea84fc20.css.map",
+    "main.60c8f06a.js.map": "/netflix-react-tailwind/static/js/main.60c8f06a.js.map"
   },
   "entrypoints": [
-    "static/css/main.71c142d5.css",
-    "static/js/main.103e4915.js"
+    "static/css/main.ea84fc20.css",
+    "static/js/main.60c8f06a.js"
   ]
 }
