@@ -1,5 +1,5 @@
 {
-  "name": "netflix-react-js",
+  "name": "netflix-clone",
   "version": "0.1.0",
   "homepage": "https://fireclint.github.io/netflix-react-tailwind/",
   "private": true,
@@ -48,5 +48,10 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24"
-  }
+  },
+  "description": "clone netflix project",
+  "main": "postcss.config.js",
+  "repository": "https://github.com/janara-ai/netflix-clone.git",
+  "author": "janara-ai <jane1998.pls@gmail.com>",
+  "license": "ISC"
 }
